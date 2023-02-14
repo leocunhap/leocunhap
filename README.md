@@ -1,16 +1,22 @@
-### Hi there 👋
+    
+  ### Olá! Eu sou o Leonardo Cunha ✋
 
-<!--
-**leocunhap/leocunhap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https:algumsite.com)
+[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:https://www.instagram.com/leocunhap/?next=%2F)
+[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:https://www.linkedin.com/in/léo-cunha) 
 
-Here are some ideas to get you started:
+![leocunhap GitHub stats](https://github-readme-stats.vercel.app/api?username=leocunhap&show_icons=true&theme=radical)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Tecnologias que eu uso no meu dia 
+ 
+ <div style="dysplay: inline_block"><br/>
+ <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ <img aling="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ <img aling="center" alt="JavaScrip" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+ </div>
+ 
+ 
+ ## Contatos 
+PR - Curitiba <br>
+email: leocunhap10@gmail.com <br>
+telefone: (41)99952-4267
