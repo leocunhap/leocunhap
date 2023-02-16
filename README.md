@@ -2,7 +2,7 @@
   ### Olá! Eu sou o Leonardo Cunha ✋
 
 [![blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https:algumsite.com)
-[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:https://www.instagram.com/leocunhap/?next=%2F)
+[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:https://www.instagram.com/leocunhap/)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:https://www.linkedin.com/in/léo-cunha) 
 
 ![leocunhap GitHub stats](https://github-readme-stats.vercel.app/api?username=leocunhap&show_icons=true&theme=radical)!
