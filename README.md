@@ -7,7 +7,7 @@
 ![leocunhap Status](https://github-readme-stats.vercel.app/api?username=leocunhap&show_icons=true)
 
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leocunhap&layout=compact)](https://github.com/leocunhap/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leocunhap&layout=compact)](https://github.com/leocunhap/github-readme-stats)
 
 ##  Tecnologias que eu uso no meu dia
  
