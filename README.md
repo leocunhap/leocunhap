@@ -7,6 +7,10 @@
 
 ![leocunhap's Stats](https://github-readme-stats.vercel.app/api?username=leocunhap&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![leocunhap's Streak](https://github-readme-streak-stats.herokuapp.com/?user=leocunhap&theme=vue-dark&hide_border=true)
+
+![leocunhap's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leocunhap&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 
 ##  Tecnologias que eu uso no meu dia
