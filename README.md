@@ -4,10 +4,10 @@
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leocunhap/?next=%2F)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%A9o-cunha/) 
 
-![leocunhap Status](https://github-readme-stats.vercel.app/api?username=leocunhap&show_icons=true)
+
+![leocunhap's Stats](https://github-readme-stats.vercel.app/api?username=leocunhap&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leocunhap&layout=compact)](https://github.com/leocunhap/github-readme-stats)
 
 ##  Tecnologias que eu uso no meu dia
  
